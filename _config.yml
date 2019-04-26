@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Huy's Hub"
 title_separator          : "-"
 name                     : "Huy Nguyen"
-description              : "A place where I put my writing skills to the test."
+description              : "Một nơi để mình chém gió về đủ thứ và luyện kỹ năng viết lách."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Huy Nguyen"
   avatar           : "https://avatars3.githubusercontent.com/u/20653181?s=460&v=4" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "College dude trying to learn Computer Science and stuff."
+  bio              : "College student. Computer Science."
   location         : "Ho Chi Minh City"
   email            :
   links:
