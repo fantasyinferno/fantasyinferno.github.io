@@ -22,9 +22,9 @@ name                     : "Huy Nguyen"
 description              : "Một nơi để mình chém gió về đủ thứ và luyện kỹ năng viết lách."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "kqhuynguyen/kqhuynguyen.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Huy Nguyen"
-  avatar           : "https://avatars3.githubusercontent.com/u/20653181?s=460&v=4" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/avatar.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "College student. Computer Science."
   location         : "Ho Chi Minh City"
   email            :
@@ -126,7 +126,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/fantasyinferno"
+      url: "https://github.com/kqhuynguyen"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
